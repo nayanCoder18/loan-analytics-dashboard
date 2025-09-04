@@ -3,14 +3,13 @@
 ## 📊 Loan Analytics Dashboards
 
 ### 1. Loan Default & Overview
-[![Loan Default & Overview](Dashboards/Dashboard_Screenshots/dashboard_1.png)](Dashboards/Loan_Analytics_Dashboard.pbix)
+<img width="1625" height="904" alt="dashboard 1" src="https://github.com/user-attachments/assets/59f3febf-22ef-49f7-85ad-df4c191a63ba" />
 
 ### 2. Applicant Demographics & Financial Profile
-[![Applicant Demographics & Financial Profile](Dashboards/Dashboard_Screenshots/dashboard_2.png)](Dashboards/Loan_Analytics_Dashboard.pbix)
+<img width="1610" height="895" alt="dashboard 2" src="https://github.com/user-attachments/assets/4553935e-b434-425d-86da-0df098a1b04a" />
 
 ### 3. Financial Risk Metrics
-[![Financial Risk Metrics](Dashboards/Dashboard_Screenshots/dashboard_3.png)](Dashboards/Loan_Analytics_Dashboard.pbix)
-g)
+<img width="1607" height="895" alt="dashboard 3" src="https://github.com/user-attachments/assets/3fd1e6bc-648b-4b89-acc9-b3f274d6f4b4" />
 
 ### Enterprise-grade loan portfolio risk assessment and borrower profiling system built with advanced DAX calculations and interactive Power BI dashboards
 
