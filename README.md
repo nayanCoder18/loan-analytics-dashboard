@@ -1,7 +1,12 @@
 # 🏦 Advanced Loan Analytics Dashboard | Power BI Risk Intelligence Platform
-Show Image
-Show Image
-Show Image
+## Loan Default & Overview
+![Loan Default & Overview](images/dashboard%201.png)
+
+## Applicant Demographics & Financial Profile
+![Applicant Demographics & Financial Profile](images/dashboard%202.png)
+
+## Financial Risk Metrics
+![Financial Risk Metrics](images/dashboard%203.png)
 
 ### Enterprise-grade loan portfolio risk assessment and borrower profiling system built with advanced DAX calculations and interactive Power BI dashboards
 
