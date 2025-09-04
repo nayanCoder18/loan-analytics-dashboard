@@ -1,7 +1,7 @@
 
 ## LOAN ANALYTICS DASHBOARD - COMPLETE DAX MEASURES COLLECTION
 
-### **Author:** Nayan Mandal
+### **Author:** Nayan Mandal 
 ### **Project:** Advanced Loan Analytics Dashboard
 ### **Version:** 1.0
 ### **Description:** Comprehensive DAX measures for loan default prediction and analysis
