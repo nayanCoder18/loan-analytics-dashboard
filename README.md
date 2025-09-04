@@ -62,7 +62,7 @@ Predictive analytics and trend identification for strategic planning
  #### 1. Clone the Repository
 ```
 bash
-git clone https://github.com/yourusername/loan-analytics-dashboard.git
+git clone https://github.com/nayanCode18/loan-analytics-dashboard.git
 cd loan-analytics-dashboard
 ```
 #### 2. Open Power BI File
