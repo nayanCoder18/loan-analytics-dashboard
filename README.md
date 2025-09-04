@@ -1,12 +1,16 @@
 # 🏦 Advanced Loan Analytics Dashboard | Power BI Risk Intelligence Platform
-## Loan Default & Overview
-![Loan Default & Overview](images/dashboard%201.png)
 
-## Applicant Demographics & Financial Profile
-![Applicant Demographics & Financial Profile](images/dashboard%202.png)
+## 📊 Loan Analytics Dashboards
 
-## Financial Risk Metrics
-![Financial Risk Metrics](images/dashboard%203.png)
+### 1. Loan Default & Overview
+[![Loan Default & Overview](Dashboards/Dashboard_Screenshots/dashboard_1.png)](Dashboards/Loan_Analytics_Dashboard.pbix)
+
+### 2. Applicant Demographics & Financial Profile
+[![Applicant Demographics & Financial Profile](Dashboards/Dashboard_Screenshots/dashboard_2.png)](Dashboards/Loan_Analytics_Dashboard.pbix)
+
+### 3. Financial Risk Metrics
+[![Financial Risk Metrics](Dashboards/Dashboard_Screenshots/dashboard_3.png)](Dashboards/Loan_Analytics_Dashboard.pbix)
+g)
 
 ### Enterprise-grade loan portfolio risk assessment and borrower profiling system built with advanced DAX calculations and interactive Power BI dashboards
 
@@ -121,22 +125,26 @@ DIVIDE(
 ###📁 Repository Structure
 ```
 loan-analytics-dashboard/
-├── 📊 Dashboards/
+├── 📊 dashboards/
 │   ├── Loan_Analytics_Dashboard.pbix
-│   └── Dashboard_Screenshots/
-├── 📝 DAX_Measures/
-│   ├── Default_Analytics.txt
-│   ├── Demographics_Measures.txt
-│   └── Risk_Metrics.txt
-├── 📋 Documentation/
-│   ├── Data_Dictionary.md
-│   ├── Business_Requirements.md
-│   └── User_Guide.pdf
-├── 🔧 Scripts/
-│   ├── Data_Validation.sql
-│   └── Performance_Optimization.dax
-└── 📊 Sample_Data/
+│   └── screenshots/
+│       ├── dashboard_1.png
+│       ├── dashboard_2.png
+│       └── dashboard_3.png
+├── 📝 dax_measures/
+│   ├── default_analytics.txt
+│   ├── demographics_measures.txt
+│   └── risk_metrics.txt
+├── 📋 documentation/
+│   ├── data_dictionary.md
+│   ├── business_requirements.md
+│   └── user_guide.pdf
+├── 🔧 scripts/
+│   ├── data_validation.sql
+│   └── performance_optimization.dax
+└── 📊 sample_data/
     └── loan_sample_dataset.csv
+
 ```
 
 ### 🎨 Visualization Best Practices
