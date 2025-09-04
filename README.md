@@ -59,6 +59,7 @@ bash
 git clone https://github.com/nayanCoder18/loan-analytics-dashboard.git
 cd loan-analytics-dashboard
 Open Power BI File
+
 📁 Open "Loan_Analytics_Dashboard.pbix" in Power BI Desktop
 Configure Data Source
 Navigate to Transform Data → Data Source Settings
